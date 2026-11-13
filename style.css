@@ -264,3 +264,10 @@ footer{margin-top:90px;border:0;padding:28px 0 34px;background:#111;color:#fff;b
 @keyframes crise{0%{transform:translateY(0);opacity:0}20%{opacity:1}100%{transform:translateY(-34px);opacity:0}}
 @keyframes clook{0%,100%{transform:translateX(-4px)}50%{transform:translateX(5px)}}
 @keyframes cwig{0%,100%{transform:rotate(var(--r,0deg))}50%{transform:rotate(calc(var(--r,0deg) * -.6)) translateY(-3px)}}
+
+.zhero h1{font:800 clamp(28px,3.5vw,44px)/1.5 "Bodoni Moda",serif;margin:14px 0 18px;letter-spacing:0}
+.cw{padding:.02em .22em;margin:.1em .06em;box-shadow:0 0 0 2px #fff,3px 5px 10px #0003}
+.w1{background:#111;color:#fff;--r:-1.2deg}.w2{background:#c9f2dc;color:#111;--r:1deg}.w3{background:#ffe94d;color:#111;--r:-.8deg}.w4{background:#ff2e93;color:#fff;--r:1.2deg}
+
+.czh{font-size:clamp(34px,4.4vw,56px)}
+h2{font-size:clamp(34px,4.4vw,56px)!important}
